@@ -19,6 +19,8 @@ Targets: Goals for trips, new passengers, and average ratings.
 ## Dashboard
 [Check here for the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU0MWFjOWEtYTY2ZC00MWE0LTk3OTYtMmM1NWJiY2Q5MTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+<img src="https://github.com/Sourav749/Goodcabs_Performance_Analysis/blob/main/Dashboard.pdf">
+
 ## Insights
 
 - Jaipur: Contributes the highest trips (18%) and revenue (₹37.2M, 34%) but relies heavily on new passengers (80%).  
