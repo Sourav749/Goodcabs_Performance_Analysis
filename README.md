@@ -11,7 +11,7 @@ As Codebasics conducted this resume challenge project, they provided the data se
 
 The dataset includes detailed information about:
 
-Trips: City-wise trip data with passenger types and trip frequencies.
+Trips: City-wise trip data with passenger types and trip frequencies.  
 Passengers: New and repeat passenger counts with ratings.
 Cities and Months: Operational locations and time-based metrics.
 Targets: Goals for trips, new passengers, and average ratings.
