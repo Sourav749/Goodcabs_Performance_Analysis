@@ -29,6 +29,8 @@ Targets: Goals for trips, new passengers, and average ratings.
 
 ## Feedback and Engagement
 
+Thank you for your engagement with this README. 
 I’d love to hear your thoughts on this project! If you find it valuable or have suggestions for improvement, feel free to share your feedback.
-You can also check out my other projects in the Data to Insights series, where I explore data across different domains.
+
+You can also check out my LinkedIn post about this project [here](https://www.linkedin.com/posts/sourav-kumar-sahoo_dataanalytics-powerbi-dashboarddesign-activity-7279353848081620992-ONcU?utm_source=share&utm_medium=member_desktop) and join the conversation! Let’s connect on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sourav-kumar-sahoo/).
 
