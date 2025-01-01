@@ -21,11 +21,11 @@ Targets: Goals for trips, new passengers, and average ratings.
 
 ## Insights
 
-Jaipur: Contributes the highest trips (18%) and revenue (₹37.2M, 34%) but relies heavily on new passengers (80%).  
-Lucknow: Ranks second in trips (15%) but has low revenue due to poor ratings and lower average fare per trip.  
-Mysore: Small contributor (4% of trips) but exceeds trip targets by 20%, demonstrating high efficiency and satisfaction (ratings above 8.0).  
-Surat: Leads in Repeat Passenger Rate (42%) but struggles with low ratings due to lower fares.  
-Seasonal Trends: Trips peaked in February and March, declining steadily afterwards, but repeat passenger loyalty increased during off-peak months.
+- Jaipur: Contributes the highest trips (18%) and revenue (₹37.2M, 34%) but relies heavily on new passengers (80%).  
+- Lucknow: Ranks second in trips (15%) but has low revenue due to poor ratings and lower average fare per trip.  
+- Mysore: Small contributor (4% of trips) but exceeds trip targets by 20%, demonstrating high efficiency and satisfaction (ratings above 8.0).  
+- Surat: Leads in Repeat Passenger Rate (42%) but struggles with low ratings due to lower fares.  
+- Seasonal Trends: Trips peaked in February and March, declining steadily afterwards, but repeat passenger loyalty increased during off-peak months.
 
 ## Feedback and Engagement
 
